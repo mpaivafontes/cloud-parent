@@ -11,8 +11,8 @@
     <name>Cloud Parent</name>
     
     <scm>
-        <connection>scm:git:ssh://git@bitbucket.org/marcelo_fontes/cloud-parent.git</connection>
-        <developerConnection>scm:git:ssh://git@bitbucket.org/marcelo_fontes/cloud-parent.git</developerConnection>
+        <connection>scm:git:ssh://git@bitbucket.org/marcelo_fontes/${project.artifactId}.git</connection>
+        <developerConnection>scm:git:ssh://git@bitbucket.org/marcelo_fontes/${project.artifactId}.git</developerConnection>
         <url>https://bitbucket.org/marcelo_fontes/cloud-parent</url>
         <tag>HEAD</tag>
     </scm>

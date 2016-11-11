@@ -9,6 +9,13 @@
     <packaging>pom</packaging>
 
     <name>Cloud Parent</name>
+    
+    <scm>
+        <connection>scm:git:ssh://git@bitbucket.org/marcelo_fontes/cloud-parent.git</connection>
+        <developerConnection>scm:git:ssh://git@bitbucket.org/marcelo_fontes/cloud-parent.git</developerConnection>
+        <url>https://bitbucket.org/marcelo_fontes/cloud-parent</url>
+        <tag>HEAD</tag>
+    </scm>
 
     <properties>
         <!-- encoding -->
